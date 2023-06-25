@@ -1,0 +1,14 @@
+
+
+# Ignore everything inside my subdir on any level below
+**/.cph/*
+
+
+### Above combination will ignore all files without extension ###
+
+# Ignore files with extension `.class` & `.exe`
+*.bin
+*.exe
+
+# Compiled class file
+*.class

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "77b13c9c84b3928e",
+        "id": "71de628129c2f9c6",
         "type": "tabs",
         "children": [
           {
-            "id": "2bdbc6cbb15100f8",
+            "id": "1414d07671826bb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +118,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "74c0b3d4839c3b53",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 485.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bdbc6cbb15100f8",
+  "active": "1414d07671826bb1",
   "lastOpenFiles": [
     "Obsidian.md"
   ]

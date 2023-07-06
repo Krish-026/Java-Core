@@ -32,3 +32,53 @@ Type casting is also called
 In this case, as the higher data types with a larger size are converted into lower ones with a smaller size, there is a chance of data loss. This is the reason that this type of conversion does not happen automatically.
 
 ## Type Promotion
+
+
+## Class Demo
+
+```java
+class Calculator{
+
+    int add(int num1, int num2){
+
+        return num1 + num2;
+
+    }
+
+}
+
+  
+
+public class DemoClass {
+
+    public static void main(String args[]){
+
+        int num1 = 10, num2 = 20;
+
+        Calculator calc = new Calculator();
+
+        System.out.println(calc.add(num1, num2));
+
+    }
+
+}
+```
+
+
+![[Pasted image 20230706100620.png]]
+
+## Method Overloading
+
+[Javapoint](https://www.javatpoint.com/method-overloading-in-java)
+
+
+## Method Overriding
+
+[Javapoint](https://www.javatpoint.com/method-overriding-in-java)
+
+
+
+![[Pasted image 20230706103620.png]]
+
+
+3:48
